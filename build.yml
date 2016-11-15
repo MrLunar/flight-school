@@ -12,7 +12,7 @@ inputs:
 run:
   path: bash 
   args: 
-    - ./flight-school/ci/test.sh 
+    - ./flight-school/flight-school/ci/test.sh 
 
 # run:
 #   path: ls 
